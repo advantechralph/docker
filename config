@@ -1,0 +1,9 @@
+
+set -x
+name=test
+repo=advantechralph/work:test
+rm=1
+privileged=1
+detach=1
+network=host
+runcmd=
