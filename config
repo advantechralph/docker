@@ -1,0 +1,9 @@
+
+set -x
+name=imx6
+repo=advantechralph/work:imx6
+#rm=1
+privileged=1
+detach=1
+network=host
+runcmd=

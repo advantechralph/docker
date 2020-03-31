@@ -1,0 +1,9 @@
+
+# check status gitlab status 
+gitlab-ctl status
+
+# restart gitlab services
+gitlab-ctl restart
+
+# after edit 'share/config/gitlab.rb'
+gitlab-reconfigure
